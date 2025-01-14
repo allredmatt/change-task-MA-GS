@@ -1,6 +1,7 @@
 # Change Task - MA GS
 
 ## Exec summary
+
 PixelQuest face the following challenges to there business:
 
 1. Player Engagement: The studio lacks an integrated platform for players to connect, share experiences, and access post-launch content. This has limited community engagement and loyalty compared to competitors who offer interactive apps or web platforms.
@@ -11,6 +12,7 @@ PixelQuest face the following challenges to there business:
 ## Proposed solutions
 
 For Challenges 1, 2 and 4. Develop an app with:
+
 - Micro transactions and DLC for main games.
 - Could add mini-games into app with paid for content (paid games, free to play for first levels, ads)
 - Store front for above + payment processing
@@ -44,7 +46,14 @@ Players - Wants reasons to use the app, app needs to be easy to use, payments an
 
 Developers - Wants to quickly and effectively receive feedback from the users, have feedback presented in a way that can be understood, have easy to maintain code
 
+Marketing/Sales - Transparent information from developers team about changes of the product and any delay in the final deployment.
+
+Investors - Want this additional features to increase profit and to not put in jeopardy their investments.
+
+CEO - Need this additional feature to help with the growth of the company and meet yearly goals.
+
 ## Wireframe
+
 <img src="./assets/wireframe.png" alt="drawing" width="250"/>
 
 ## Agile plan
@@ -57,16 +66,13 @@ Apps purpose is to provide a place for revenue generating mini games (later stag
 
 Players of the game: "As a player of the game, I want to be able to purchase exclusive content, so that I can be more emersed in the game."
 
-Players of the game: "As a player of the game, I want to be able to suggest changes to the games, so that I can enjoy the experience more."
-
 Developers: "As a developer, I want to be able to receive user feedback in a way that is easy to use, so I can further the develop the games."
 
-Marketing/sales team: ""
+Marketing/sales team: "As marketing and sales reps, we want to know as much as possible about the product and any changes occuring. To promote the product in the best way possible"
 
-Investors: ""
+Investors: "As investors in this company, we want to increase profits and ensure that our investments are safe"
 
-CEO: ""
-
+CEO: "As the CEO I want to ensure that the company is moving in the right direction, growing and developing at the correct pace and that it stands out from its competitors"
 
 ### Sprint plans
 
