@@ -7,13 +7,13 @@
 For 3. Is building a solution best method. 3rd party options very good (would they work out cheaper). Provide training for staff on this. Looks like a separate project. Build data of improvements from using 3rd party tools to form a picture of how changes have been successful.
 
 1, 2 and 4. Develop an app with:
+
 - Micro transactions and DLC for main games.
 - Could add mini-games into app with paid for content (paid games, free to play for first levels, ads)
 - Store front for above + payment processing
 - Forum in app for players, used to monitor players attitudes to game, official feedback channels in forum.
 - Surveys or forum posts (e.g. bots asking for experience of game) automated pipeline for gathering feedback from app.
 - Gather user data of using app and analyse impact of these.
-
 
 ## Stakeholder Analysis
 
@@ -55,7 +55,6 @@ Investors: ""
 
 CEO: ""
 
-
 ### Sprint plans
 
 Sprint 1:
@@ -79,11 +78,8 @@ With pipeline of data to feed dashboard.
 
 Sprint 7:
 DLC content for main games
-
-Sprint 8:
 Mini games for app
 Add in ads to app in relevant sections
-
 
 ## Backlog
 
@@ -104,3 +100,31 @@ Add in ads to app in relevant sections
 15. Ads in game
 
 ### Trello Boards
+
+#### Sprint 1
+
+<img src="./assets/sprint1.png" alt="trello board" width="450"/>
+
+#### Sprint 2
+
+<img src="./assets/sprint2.png" alt="trello board" width="450"/>
+
+#### Sprint 3
+
+<img src="./assets/sprint3.png" alt="trello board" width="450"/>
+
+#### Sprint 4
+
+<img src="./assets/sprint4.png" alt="trello board" width="450"/>
+
+#### Sprint 5
+
+<img src="./assets/sprint5.png" alt="trello board" width="450"/>
+
+#### Sprint 6
+
+<img src="./assets/sprint6.png" alt="trello board" width="450"/>
+
+#### Sprint 7
+
+<img src="./assets/sprint6.png" alt="trello board" width="450"/>
