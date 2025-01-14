@@ -146,4 +146,4 @@ Add in ads to app in relevant sections
 
 #### Sprint 7
 
-<img src="./assets/sprint6.png" alt="trello board" width="450"/>
+<img src="./assets/sprint7.png" alt="trello board" width="450"/>
