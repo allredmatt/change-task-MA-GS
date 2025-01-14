@@ -10,9 +10,7 @@ PixelQuest face the following challenges to there business:
 
 ## Proposed solutions
 
-For 3. Is building a solution best method. 3rd party options very good (would they work out cheaper). Provide training for staff on this. Looks like a separate project. Build data of improvements from using 3rd party tools to form a picture of how changes have been successful.
-
-1, 2 and 4. Develop an app with:
+For Challenges 1, 2 and 4. Develop an app with:
 - Micro transactions and DLC for main games.
 - Could add mini-games into app with paid for content (paid games, free to play for first levels, ads)
 - Store front for above + payment processing
@@ -20,6 +18,7 @@ For 3. Is building a solution best method. 3rd party options very good (would th
 - Surveys or forum posts (e.g. bots asking for experience of game) automated pipeline for gathering feedback from app.
 - Gather user data of using app and analyse impact of these.
 
+For challenge 3. Is building a solution best method. 3rd party options very good (would they work out cheaper). Provide training for staff on this. Looks like a separate project. Build data of improvements from using 3rd party tools to form a picture of how changes have been successful.
 
 ## Stakeholder Analysis
 
@@ -44,8 +43,6 @@ Summary of needs:
 Players - Wants reasons to use the app, app needs to be easy to use, payments and logins need to happen with no bugs
 
 Developers - Wants to quickly and effectively receive feedback from the users, have feedback presented in a way that can be understood, have easy to maintain code
-
-
 
 ## Wireframe
 <img src="./assets/wireframe.png" alt="drawing" width="250"/>
